@@ -51,4 +51,3 @@ class CodeMender:
             else:
                 replace: CodeMender.Function = getattr(self, "replace", self._default)
                 return replace(self.target, *args, *kwds)
-
