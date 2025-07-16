@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: codemender
+Version: 1.0.0
+Summary: A small and user-friendly Python library for patching code
+Author-email: ProgrammingLover71 <abcbcalol69@gmail.com>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/ProgrammingLover71/CodeMender
+Project-URL: Issues, https://github.com/ProgrammingLover71/CodeMender/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+License-File: LICENSE
+Dynamic: license-file

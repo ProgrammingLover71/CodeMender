@@ -1,0 +1,8 @@
+LICENSE
+pyproject.toml
+src/__init__.py
+src/main.py
+src/codemender.egg-info/PKG-INFO
+src/codemender.egg-info/SOURCES.txt
+src/codemender.egg-info/dependency_links.txt
+src/codemender.egg-info/top_level.txt
