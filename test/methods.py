@@ -1,4 +1,4 @@
-from main import *
+from src.main import *
 
 class Person:
     def __init__(self, age: float):
